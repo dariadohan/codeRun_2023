@@ -11,3 +11,10 @@ class CodeRun2023ApplicationTests {
 	}
 
 }
+class BookController {
+	;
+	private String name;
+	private String author;
+
+
+}
